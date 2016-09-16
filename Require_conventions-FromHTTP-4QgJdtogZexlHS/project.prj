@@ -1,0 +1,16 @@
+{
+    "LocalDependencies": [
+        "require_function.lua",
+        "require_table.lua"
+    ],
+    "LuaDependencies": [
+        "log.annotate"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1474055021",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}
