@@ -1,0 +1,16 @@
+<channel
+   name="Help Example"
+   guid="81C7E062A7717B2FEC6D1D0A6F0562FA"
+   description="Example of writing help for a couple of functions."
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_channel>
+   </to_channel>
+   <from_http
+      type="mapper"
+      guid="Help_Example-FromHTTP-8Br9CDQtXwtDr9"
+      commit_id="609422af3a1a5e22d6dee6122605192f5fced919"
+      commit_comment="First commit of help example."
+      mapper_url_path="help"/>
+</channel>
